@@ -14,6 +14,7 @@ public class FAM {
         //h.entrenar();
         Performance p=new Performance();
         p.entrada();
+        //lol
     }
 
 }
